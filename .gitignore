@@ -2,4 +2,5 @@ src/config.local
 src/image/*.zip
 src/image/*.xz
 **/key.json
+__pycache__
 /.idea/
